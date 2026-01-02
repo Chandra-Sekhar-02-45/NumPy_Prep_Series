@@ -66,5 +66,5 @@ This repository will also include implementations of real-world problems to demo
     jupyter notebook
     ```
 
-## 📝 Resources
+## Resources
 *   [Official NumPy Documentation](https://numpy.org/doc/)
