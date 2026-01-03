@@ -4,7 +4,7 @@ Welcome to the **NumPy Prep Series**! This repository documents my journey of ma
 
 Here, you will find detailed notes, code examples, and practical implementations covering everything from basic array creation to advanced data manipulation.
 
-## 📚 Course Curriculum
+## Course Curriculum
 
 This series covers the following key topics, structured to take you from a beginner to an advanced user:
 
@@ -44,14 +44,14 @@ This series covers the following key topics, structured to take you from a begin
 *   Sampling from distributions (Uniform, Normal).
 *   Random seeds for reproducibility.
 
-## 🚀 Projects & Real-World Applications
+## Projects & Real-World Applications
 This repository will also include implementations of real-world problems to demonstrate the power of NumPy:
 *   **Data Preprocessing**: Cleaning and preparing datasets for Machine Learning.
 *   **Image Processing**: Manipulating images as pixel arrays.
 *   **Statistical Analysis**: Analyzing datasets using statistical functions.
 *   **Linear Algebra**: Solving systems of equations and matrix operations.
 
-## 🛠️ Getting Started
+## Getting Started
 
 1.  **Clone the repository**:
     ```bash
@@ -66,5 +66,5 @@ This repository will also include implementations of real-world problems to demo
     jupyter notebook
     ```
 
-## 📝 Resources
+## Resources
 *   [Official NumPy Documentation](https://numpy.org/doc/)
